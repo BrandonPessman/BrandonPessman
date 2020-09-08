@@ -12,6 +12,21 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/gamedev.svg" alt="Game Development" style="vertical-align:top; margin:4px">
 </p> 
 
+### 🌱 I’m currently learning
+<p>
+Looking deeper into JavaScript and more specifically, I'm learning the in's and out's of ES6
+</p>
+
+### 😄 Pronouns
+<p>
+He / Him / His
+</p>
+
+### 🔭 I’m currently working on
+<p>
+Getting some of my old projects polished and cleaned up
+</p>
+
 <!--
 **BrandonPessman/BrandonPessman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
