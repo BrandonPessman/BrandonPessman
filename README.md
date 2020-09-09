@@ -34,7 +34,7 @@ Getting some of my old projects polished and cleaned up
         Factorio
     </li>
     <li>
-        Valorant
+        Terraria
     </li>
     <li>
         Marvel's Avengers
