@@ -22,7 +22,7 @@ Looking deeper into JavaScript and more specifically, I'm learning the in's and 
 
 ### 🚀 What I'm currently working on
 <p>
-Getting some of my old projects polished and cleaned up
+A new Discord Bot for event management
 </p>
 
 
