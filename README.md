@@ -25,24 +25,6 @@ Looking deeper into JavaScript and more specifically, I'm learning the in's and 
 Getting some of my old projects polished and cleaned up
 </p>
 
-### 🕹️ Favorite Video Games
-<ol>
-    <li>
-        Garry's Mod
-    </li>
-    <li>
-        Factorio
-    </li>
-    <li>
-        Terraria
-    </li>
-    <li>
-        Marvel's Avengers
-    </li>
-    <li>
-        City Skylines
-    </li>
-</ol>
 
 <!--
 **BrandonPessman/BrandonPessman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
