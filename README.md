@@ -2,19 +2,9 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=BrandonPessman&show_icons=true&theme=bear&count_private=true)
 
-### 😄 Pronouns
-<p>
-He / Him / His
-</p>
-
-### 🌱 What I'm learning
-<p>
-Looking deeper into JavaScript and more specifically, I'm learning the in's and out's of ES6
-</p>
-
 ### 🚀 What I'm currently working on
 <p>
-A sustainability web and mobile application that gamifies sustainable actions.
+  A sustainability mobile app for tracking and visualizing your sustainable impact. On weekends, I am working on a text MMORPG game engine inspired from MUDs.
 </p>
 
 
